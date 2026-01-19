@@ -1,7 +1,6 @@
-package me.cz.fpl_jav201;
+package poly.com.Lab1;
 
 import java.io.*;
-
 import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;
 

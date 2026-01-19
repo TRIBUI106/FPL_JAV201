@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-253.29346.138">
+    <data-source name="@yeume-enterprise.edu.vn" uuid="f1b6f74d-553c-48b2-ab90-98ccfcbba1a1">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>yeumeent_dihoc</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
