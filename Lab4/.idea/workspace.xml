@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Lab4:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06750a3f-fe58-4908-83db-5ea9339c5335" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab2/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab2/.idea/jpa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab2/src/main/java/com/poly/lab2/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab2/src/main/java/com/poly/lab2/dao/impl/UserDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab2/src/main/java/com/poly/lab2/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab2/src/main/java/com/poly/lab2/servlet/UserCRUDServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab2/src/main/java/com/poly/lab2/util/XJPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab2/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab2/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab2/src/main/webapp/pages/user-crud.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab3/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab3/src/main/java/TestApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab3/src/main/java/dao/FavoriteDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab3/src/main/java/dao/GenericDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab3/src/main/java/dao/VideoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab3/src/main/java/dao/impl/FavoriteDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab3/src/main/java/dao/impl/UserDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab3/src/main/java/dao/impl/VideoDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab3/src/main/java/entity/Favorite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab3/src/main/java/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab3/src/main/java/entity/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab3/src/main/java/servlet/FavoriteServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab3/src/main/java/servlet/UserFavoriteServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab3/src/main/java/utils/JpaUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab3/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab3/src/main/webapp/views/favorites.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab3/src/main/webapp/views/user-favorites.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab4/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab4/.idea/data_source_mapping.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab4/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab4/src/main/java/com/poly/lab4/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab4/src/main/java/com/poly/lab4/dao/VideoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab4/src/main/java/com/poly/lab4/dao/impl/UserDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab4/src/main/java/com/poly/lab4/dao/impl/VideoDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab4/src/main/java/com/poly/lab4/entity/Favorite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab4/src/main/java/com/poly/lab4/entity/Share.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab4/src/main/java/com/poly/lab4/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab4/src/main/java/com/poly/lab4/entity/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab4/src/main/java/com/poly/lab4/servlet/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab4/src/main/java/com/poly/lab4/servlet/ReportServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab4/src/main/java/com/poly/lab4/servlet/SearchServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab4/src/main/java/com/poly/lab4/utils/JpaUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab4/src/main/webapp/views/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab4/src/main/webapp/views/report.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đang Học/Jav201/Lab/Lab4/src/main/webapp/views/search.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Asigment/.idea/Asigment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Asigment/out/production/Asigment/.idea/Asigment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap1/Lap1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap3/.idea/Lap3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap4/Bai1Lap4/Bai1Lap4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap4/Bai1Lap4/out 22.38.26/production/Bai1Lap4/Bai1Lap4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap4/Bai1Lap4/out/production/Bai1Lap4/Bai1Lap4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap4/Bai1Lap4/out/production/Bai1Lap4/out 22.38.26/production/Bai1Lap4/Bai1Lap4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap4/Bai2Lap4/out 22.38.35/production/Bai1Lap4/Bai1Lap4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap4/Bai3Lap4/Bai3Lap4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap5/.idea/Lap5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap5/Bai1Lap5/Bai1Lap5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap5/Bai2Lap5/Bai2Lap5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap5/Bai3Lap5/Bai3Lap5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap5/Bai4Lap5/Bai4Lap5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap6/.idea/Lap6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap6/Bai1Lap6/Bai1Lap6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap6/Bai2Lap6/Bai2Lap6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap6/Bai3Lap6/Bai3Lap6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap6/Bai4Lap6/Bai4Lap6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap7/.idea/Lap7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap7/Bai1Lap7/Bai1Lap7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap7/Bai2_3_4Lap7/Bai2_3_4Lap7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap8/.idea/Lap8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/Lap/Lap8/out/production/Lap8/.idea/Lap8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1014/MyPham/MyPham.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1023/BaiLab/lab1/Bai1Lap1/Bai1Lap1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1023/BaiLab/lab1/Lap2/Lap2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1023/BaiLab/lab1/bai4lap3/bai4lap3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Đã Học/MOB1023/Bài Demo/Demo/Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Lifecyecle_Junit5/src/main/java/org/example/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Lifecyecle_Junit5/src/main/java/org/example/NumberUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Lifecyecle_Junit5/src/test/java/org/example/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Lifecyecle_Junit5/src/test/java/org/example/ExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Lifecyecle_Junit5/src/test/java/org/example/NumberUtilsParameterizedTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="38cdlM2AEYMcv7K35pPHjQFTgNN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Tomcat Server.Tomcat 10.1.48.executor": "Run",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.52068967",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationStatuses">
+      <map>
+        <entry key="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+          <value>
+            <map>
+              <entry key="Tomcat 10.1.48" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 10.1.48" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.48" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="Lab4:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Lab4_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="ee1a9042-5bcd-475e-ab86-d9069b65d4a3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Lab4:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06750a3f-fe58-4908-83db-5ea9339c5335" name="Changes" comment="" />
+      <created>1769102942943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769102942943</updated>
+      <workItem from="1769102943966" duration="2699000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
